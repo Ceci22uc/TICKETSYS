@@ -13,3 +13,16 @@ LAS HERRAMIENTAS A,B, Y C, EN UN PERIODO DE 3 MESES
 - FRAMEWORK:
 - IDE:
 - CSS:
+
+##ARQUITECTURA
+La arquitectura del proyecto será
+
+***
+
+##METODOLOGÍA
+La metodología para el desarrollo de la aplicación será SCRUM en 4 Sprint
+
+- [ ] SPRINT 1
+- [ ] SPRINT 2
+- [ ] SPRINT 3
+- [ ] SPRINT 4
